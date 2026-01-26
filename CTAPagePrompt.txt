@@ -1,0 +1,22 @@
+Act as a conversion-focused website copywriter.
+
+Business Type: Hair Salon
+Primary Goal: Bookings,Enquiries,Consultation
+Target Audience:  first-time visitors
+Tone: Friendly,Professional
+
+Task:
+Write strong call-to-action (CTA) content for a business website.
+
+Instructions:
+- Create 5 different CTA variations
+- Each CTA should include:
+  1. CTA headline
+  2. One supporting line that encourages action
+- CTAs should reduce hesitation and clearly state the next step
+- Avoid generic phrases; make them action-oriented and customer-focused
+
+Use cases:
+- Homepage CTA
+- Services page CTA
+- Contact or booking section CTA
