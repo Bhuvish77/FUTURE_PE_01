@@ -1,1 +1,19 @@
-I am Going to start the Internship...
+I am Going to start the Internship...n
+Act as a professional website copywriter specializing in local businesses.
+
+Business Type: Hair Salon
+Target Audience: Women aged 20–45
+Location: Urban city
+Tone: Friendly, modern, professional
+
+Task:
+Write homepage website copy including:
+1. Hero headline with clear value proposition
+2. Supporting subheadline
+3. Short introduction paragraph
+4. 3 key benefits
+5. Strong call-to-action section
+
+Ensure the content is simple, persuasive, and conversion-focused.
+
+
