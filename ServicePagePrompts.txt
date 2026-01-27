@@ -1,18 +1,18 @@
 Act as a professional website copywriter specializing in local businesses.
 
-Business Type: [Enter business type – e.g., Hair Salon / Cafe / Clinic / Agency]
+Business Type: [Enter business type ï¿½ e.g., Hair Salon / Cafe / Clinic / Agency]
 Target Audience: [e.g., Working professionals, families, young adults]
-Location: [City or “Local area”]
+Location: [City or ï¿½Local areaï¿½]
 Tone: [Friendly / Professional / Premium / Minimal]
 
 Task:
 Write website copy for the Services page.
 
 Instructions:
-- Create 3–4 main services relevant to the business type
+- Create 3ï¿½4 main services relevant to the business type
 - For each service, include:
   1. Service name
-  2. Short description (2–3 sentences)
+  2. Short description (23 sentences)
   3. Who this service is for
   4. Key benefit or outcome for the customer
 - Keep the language simple, persuasive, and client-focused
