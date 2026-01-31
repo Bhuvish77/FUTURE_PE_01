@@ -1,9 +1,9 @@
 Act as a professional website copywriter specializing in local businesses.
 
-Business Type: [Enter business type � e.g., Hair Salon / Cafe / Clinic / Agency]
-Target Audience: [e.g., Working professionals, families, young adults]
-Location: [City or Local area]
-Tone: [Friendly / Professional / Premium / Minimal]
+Business Type:  Hair Salon 
+Target Audience:  Working professionals,young adults
+Location: City 
+Tone: Friendly   
 
 Task:
 Write website copy for the Services page.
